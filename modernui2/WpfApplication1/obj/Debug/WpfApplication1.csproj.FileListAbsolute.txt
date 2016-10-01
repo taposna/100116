@@ -1,0 +1,422 @@
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+c:\users\cyrik\onedrive\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\badagila\Desktop\modernui\WpfApplication1\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\cyrik\Desktop\modern\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\badagila\Desktop\thesis\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.g.cs
+C:\Users\cyrik\Desktop\modern1\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\badagila\Desktop\thesis\mteroui1\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\cyrik\Desktop\modern\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+C:\Users\badagila\Desktop\mteroui12\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pageStudentSubject.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\cyrik\Source\Repos\mteroui12\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageGrades.g.cs
+C:\Users\cyrik\Desktop\one\modernui2\WpfApplication1\obj\Debug\pageGrades.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Web.dll
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Web.xml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageGrades.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageGrades.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.example.resources
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\RdlCompile.cache
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowSched.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowSched.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageSchedule.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageSchedule.baml
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowEdit.g.cs
+C:\Users\Syon\Desktop\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowEdit.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Data.xml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\bin\Debug\MySql.Web.xml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageGrades.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageSchedule.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowEdit.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowSched.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\App.g.cs
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\App.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageGrades.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pageSchedule.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowEdit.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\Window1.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\windowSched.baml
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.example.resources
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\thesis\New folder\mteroui1-master\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\Resources\Icons.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageEnlist.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageGrades.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageHome.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageSchedule.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pgeStudent.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowEdit.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowLogin.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowMain.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowSched.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\MySql.Data.xml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\bin\Debug\MySql.Web.xml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\App.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageEnlist.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageGrades.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageHome.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pageSchedule.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\pgeStudent.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowEdit.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowLogin.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowMain.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\windowSched.baml
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\RdlCompile.cache
+C:\Users\janic\Desktop\modernui2\WpfApplication1\obj\Debug\RdlCompile.compiled
